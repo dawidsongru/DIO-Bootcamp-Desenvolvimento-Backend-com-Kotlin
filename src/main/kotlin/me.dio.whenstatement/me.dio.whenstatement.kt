@@ -1,5 +1,3 @@
-me.dio.whenstatement.kt
-
 // When Statement
 // Instead of the widely used switch statement, Kotlin provides the more flexible and clear when construction.
 // It can be used either as a statement or as an expression.
