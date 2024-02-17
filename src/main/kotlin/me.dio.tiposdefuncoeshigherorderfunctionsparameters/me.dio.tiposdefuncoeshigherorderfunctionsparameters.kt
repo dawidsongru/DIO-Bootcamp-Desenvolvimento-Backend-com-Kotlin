@@ -1,6 +1,6 @@
-// Tipos de Funções Higher-Order Functions Parameters (Parâmetros de Funções de Ordem Superior)
+// Tipos de Funções Higher-Order Functions Returning (Parâmetros de Funções de Ordem Superior)
 
-package me.dio.tiposdefuncoeshigherorderfunctionsparameters
+package me.dio.tiposdefuncoeshigherorderfunctionsreturning
 
 fun calculate(x: Int, y: Int, operation: (Int, Int) -> Int): Int {  // 1 função calculate recebe x e y Int. operação que recebe declaração de função: (Int, Int) -> Int
     return operation(x, y)                                          // 2 vai receber as inormações de x e y que está recebendo acima.
