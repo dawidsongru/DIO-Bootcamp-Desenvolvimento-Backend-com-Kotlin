@@ -1,4 +1,4 @@
-// Desafio de Codigo: Utilizando a Keyword Object com Orientação a Objetos (OO)
+// Desafio de Código: Utilizando a Keyword Object com Orientação a Objetos (OO)
 // Cálculo Salarial
 // https://web.dio.me/coding/utilizando-a-keyword-object-com-orientacao-a-objetos-oo/algorithm/calculo-salarial?back=/track/desenvolvimento-backend-com-kotlin&tab=undefined&moduleId=undefined
 

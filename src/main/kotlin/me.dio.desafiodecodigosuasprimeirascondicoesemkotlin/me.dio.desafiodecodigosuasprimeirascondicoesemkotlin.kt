@@ -1,4 +1,4 @@
-// Desafio de Codigo: Suas Primeiras Condições em Kotlin
+// Desafio de Código: Suas Primeiras Condições em Kotlin
 // Média Final do Aluno
 // https://web.dio.me/coding/suas-primeiras-condicoes-em-kotlin/algorithm/media-final-do-aluno-1?back=/track/desenvolvimento-backend-com-kotlin&tab=undefined&moduleId=undefined
 

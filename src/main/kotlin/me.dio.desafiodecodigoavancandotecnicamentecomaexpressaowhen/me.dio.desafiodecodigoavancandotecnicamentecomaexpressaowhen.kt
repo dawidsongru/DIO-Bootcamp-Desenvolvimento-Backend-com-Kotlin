@@ -1,4 +1,4 @@
-// Desafio de Codigo: Avançando Tecnicamente Com a Expressão When
+// Desafio de Código: Avançando Tecnicamente Com a Expressão When
 // Data por Extenso
 // https://web.dio.me/coding/avancando-tecnicamente-com-a-expressao-when/algorithm/data-por-extenso?back=/track/desenvolvimento-backend-com-kotlin&tab=undefined&moduleId=undefined
 
